@@ -1,0 +1,30 @@
+station_no,station_name,ts_id,variable
+156,Ayr,8821042,streamflow
+160,Canning,8845042,streamflow
+155,Nithburg,8815042,streamflow
+157,New Hamburg,8827042,streamflow
+159,Philipsburg,8839042,streamflow
+6,Arthur Climate Station,12250042,temperature
+6,Arthur Climate Station,12460042,precipitation
+9,Baden Climate Station,12253042,temperature
+9,Baden Climate Station,11232042,precipitation
+13,Brant Climate Station,12255042,temperature
+13,Brant Climate Station,11238042,precipitation
+15,Byng Island Climate Station,12258042,temperature
+15,Byng Island Climate Station,11257042,precipitation
+37,Conestogo Climate Station,12262042,temperature
+37,Conestogo Climate Station,11265042,precipitation
+178,Guelph Lake Climate Station,12293042,temperature
+178,Guelph Lake Climate Station,11220042,precipitation
+132,Laurel Creek Climate Station,12280042,temperature
+132,Laurel Creek Climate Station,11282042,precipitation
+11,Luther Marsh Climate Station,12254042,temperature
+11,Luther Marsh Climate Station,11253042,precipitation
+152,Millbank Climate Station,12284042,temperature
+152,Millbank Climate Station,11318042,precipitation
+67,Paris Climate Station,12269042,temperature
+67,Paris Climate Station,11327042,precipitation
+72,Shand Dam Climate Station,12271042,temperature
+72,Shand Dam Climate Station,11274042,precipitation
+19,Woolwich Dam Climate Station,12259042,temperature
+19,Woolwich Dam Climate Station,11259042,precipitation
